@@ -1,4 +1,4 @@
-# Python Flask App with Docker and GitHub Actions Assignment
+# Python Flask App with Docker and GitHub Actions - Assignment 04
 
 Simple Flask app that reads environment variables and exposes two endpoints:
 
